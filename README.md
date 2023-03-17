@@ -68,17 +68,17 @@ Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, pa
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=akarshabhardwaj&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=Appy26&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akarshabhardwaj&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Appy26&theme=react-dark&hide_border=true" /></a>
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akarsha_bhardwaj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsha-bhardwaj-7535a9244/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Akarsha2002)[![!PortFolio](https://img.shields.io/badge/-Portfolio-Blue)](https://akarshabhardwaj.github.io)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/appyy_.26._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparna-singh-653258247/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Akarsha2002)[![!PortFolio](https://img.shields.io/badge/-Portfolio-Blue)](https://appy26.github.io/)
   <!-- Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://akarshabhardwaj.github.io/"> Akarsha Bhardwaj 💻</a>!
 </h2>
 
