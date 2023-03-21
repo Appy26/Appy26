@@ -21,7 +21,7 @@ Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, pa
 
 - 🌱 I’m currently learning **NODE stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aparna-singh-653258247/) & [GitHub](https://github.com/Appy26)**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aparna-singh-653258247/)**
 
 - 📫 Reach me on **aparnaharsh2604@gmail.com**
 
