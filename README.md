@@ -9,7 +9,7 @@ Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, pa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Appy26&label=Profile%20views&color=0e75b6&style=flat" alt="Appy26" /> </p>
 
    <p align="center" color:"red">
-     <a href="https://github.com/Appy26/readme-typing-svg">
+     <a>
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Aparna Singh 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
