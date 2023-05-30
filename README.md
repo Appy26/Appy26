@@ -14,7 +14,10 @@ Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, pa
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br/>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=appy26"  alt="appy26" /> </p>
+  <br/>
+  <br/>
 - 🔭 I’m currently pursuing **Full Stack Node Development**
 
 -    Checkout my **[Resume](https://drive.google.com/file/d/18owvfqwkY_8t4-aT39WlSBBtSBcxA-Kl/view?usp=share_link)**
