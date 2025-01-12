@@ -2,7 +2,16 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Aparna Singh 💻!
 </h2>
 
-Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
+👩‍💻 Aparna Singh
+I am a Full Stack Developer at Kapiva, specializing in creating innovative digital solutions that enhance everyday experiences. Passionate about building seamless user interfaces and efficient backend systems, I work with a diverse range of technologies to deliver high-quality web applications.
+
+🌟 Tech Stack Expertise:
+
+Frontend: HTML5, CSS3, JavaScript, React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Dev Tools: npm, Git, GitHub
+🚀 I enjoy working on challenging projects that push my technical boundaries and allow me to learn and grow. Constantly motivated to develop scalable, user-friendly applications, I look forward to collaborating on impactful and meaningful projects.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
@@ -45,7 +54,7 @@ Hello stranger! my name is Aparna Singh and I am a Full Stack Node Developer, pa
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<!--     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" /> -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 <!--     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />  -->
 <!--     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" /> -->
   
