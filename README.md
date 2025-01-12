@@ -31,7 +31,7 @@ Dev Tools: npm, Git, GitHub
 
 - 🌱 I’m currently learning **NODE stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aparna-singh-653258247/)**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aparnasingh26/)**
 
 - 📫 Reach me on **aparnaharsh2604@gmail.com**
 
