@@ -2,15 +2,15 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Aparna Singh 💻!
 </h2>
 
-👩‍💻 Aparna Singh
 I am a Full Stack Developer at Kapiva, specializing in creating innovative digital solutions that enhance everyday experiences. Passionate about building seamless user interfaces and efficient backend systems, I work with a diverse range of technologies to deliver high-quality web applications.
 
 🌟 Tech Stack Expertise:
 
-Frontend: HTML5, CSS3, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MongoDB
+Frontend: HTML5, CSS3, JavaScript, React.js<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
 Dev Tools: npm, Git, GitHub
+
 🚀 I enjoy working on challenging projects that push my technical boundaries and allow me to learn and grow. Constantly motivated to develop scalable, user-friendly applications, I look forward to collaborating on impactful and meaningful projects.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
