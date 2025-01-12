@@ -6,14 +6,12 @@ I am a Full Stack Developer at Kapiva, specializing in creating innovative digit
 
 🌟 Tech Stack Expertise:
 
-Frontend: HTML5, CSS3, JavaScript, React.js<br>
+Frontend: HTML5, CSS3, JavaScript, React.js, Next.js<br>
 Backend: Node.js, Express.js<br>
 Database: MongoDB<br>
 Dev Tools: npm, Git, GitHub
 
 🚀 I enjoy working on challenging projects that push my technical boundaries and allow me to learn and grow. Constantly motivated to develop scalable, user-friendly applications, I look forward to collaborating on impactful and meaningful projects.
-
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Appy26&label=Profile%20views&color=0e75b6&style=flat" alt="Appy26" /> </p>
 
@@ -27,7 +25,7 @@ Dev Tools: npm, Git, GitHub
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=appy26"  alt="appy26" /> </p>
   <br/>
   <br/>
-- 🔭 I’m currently pursuing **Full Stack Node Development**
+- 🔭 I’m currently pursuing **Full Stack Development**
 
 -    Checkout my **[Resume](https://drive.google.com/file/d/18owvfqwkY_8t4-aT39WlSBBtSBcxA-Kl/view?usp=share_link)**
 
