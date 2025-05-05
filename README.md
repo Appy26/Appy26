@@ -6,10 +6,10 @@ I am a Full Stack Developer at Kapiva, specializing in creating innovative digit
 
 🌟 Tech Stack Expertise:
 
-Frontend: HTML5, CSS3, JavaScript, React.js, Next.js<br>
-Backend: Node.js, Express.js<br>
-Database: MongoDB<br>
-Dev Tools: npm, Git, GitHub
+Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Tailwind Css<br>
+Backend: Node.js, Express.js, GraphQl<br>
+Database: MongoDB, MySql<br>
+Dev Tools: npm, Git, GitHub, Postman, Fiddler
 
 🚀 I enjoy working on challenging projects that push my technical boundaries and allow me to learn and grow. Constantly motivated to develop scalable, user-friendly applications, I look forward to collaborating on impactful and meaningful projects.
 
@@ -33,7 +33,7 @@ Dev Tools: npm, Git, GitHub
 
 - 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aparnasingh26/)**
 
-- 📫 Reach me on **aparnaharsh2604@gmail.com**
+- 📫 Reach me on **aparnasingh0426@gmail.com**
 
 - 💬 ask me about anything, i am happy to help
 
