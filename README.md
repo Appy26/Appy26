@@ -6,7 +6,7 @@ I am a Full Stack Developer at Kapiva, specializing in creating innovative digit
 
 🌟 Tech Stack Expertise:
 
-Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Tailwind Css<br>
+Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS<br>
 Backend: Node.js, Express.js, GraphQl<br>
 Database: MongoDB, MySql<br>
 Dev Tools: npm, Git, GitHub, Postman, Fiddler
