@@ -32,7 +32,7 @@
 
 📫 Reach me: **aparnasingh0426@gmail.com**  
 📄 Check out my **[Resume](https://drive.google.com/file/d/1yExXvEp8e5Q4r06-rY6P5zibq_Jy7zBj/view?usp=sharing)**  
-🌐 Explore my **[Portfolio](https://appy26.github.io/)**  
+🌐 Explore my **[Portfolio](https://appy26-github-io.vercel.app/)**  
 
 ---
 
