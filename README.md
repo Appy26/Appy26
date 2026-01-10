@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 #### Backend
@@ -54,12 +55,19 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+
 </p>
 
 #### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
 </p>
 
 #### Tools & Platforms
@@ -69,11 +77,12 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiddler-1E90FF?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Appy26&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true" height="160" />
 
@@ -81,23 +90,27 @@
 
   <img src="https://streak-stats.demolab.com?user=Appy26&theme=react&hide_border=true" height="160" />
 
-</div>
+</div> -->
+
+### 📈 Contribution Graph
+
+![Aparna's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Appy26&theme=github-compact)
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aparnasingh26/">
+  <a href="https://www.linkedin.com/in/aparnasingh0426/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/appyy_.26._/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Aparnasingh2609">
+  <!-- <a href="https://twitter.com/Aparnasingh2609">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://appy26.github.io/">
+  </a> -->
+  <a href="https://appy26-github-io.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
